@@ -1,6 +1,7 @@
 
 let currentMoleTile;
 let currentPlantTile;
+let score = 0;
 
 
 window.onload = function() {
