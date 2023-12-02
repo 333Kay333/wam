@@ -12,4 +12,20 @@ background-size: cover;
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
+  background-size: cover; 
+  border: 3px solid black;
+  border-radius: 25px;
+}
+
+#board div {
+  width: 180px;
+  height: 180px;
+  background-image: url("./pipe.png");
+  background-size: cover;
+}
+
+#board div img {
+  width: 100px;
+  height: 100px;
+  
 }
